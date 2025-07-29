@@ -1,4 +1,4 @@
-This project is a comprehensive Excel-based dashboard that analyzes employee performance, attrition, satisfaction, and departmental metrics. It leverages advanced Excel tools such as Power Query, Pivot Tables, and interactive controls to provide clear business insights.
+🚀 Project Overview:This project is a comprehensive Excel-based dashboard that analyzes employee performance, attrition, satisfaction, and departmental metrics. It leverages advanced Excel tools such as Power Query, Pivot Tables, and interactive controls to provide clear business insights.
 
 🧠 Key Features:
 
